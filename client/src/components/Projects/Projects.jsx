@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { motion } from "framer-motion";
-import projects from "./projects";
+import projects from "./Projects";
 import ProjectCard from "./ProjectCard";
 import ProjectModal from "./ProjectModal";
 

@@ -1,6 +1,6 @@
-import portfolio from "../../assets/projects/projectify (2).PNG";
-import expense from "../../assets/projects/Expense_tracker.PNG";
-import shopSphere from "../../assets/projects/shopsphere - Copy.PNG";
+import portfolio from "../../assets/Projects/projectify (2).PNG";
+import expense from "../../assets/Projects/Expense_tracker.PNG";
+import shopSphere from "../../assets/Projects/shopsphere - Copy.PNG";
 
 const projects = [
   {
