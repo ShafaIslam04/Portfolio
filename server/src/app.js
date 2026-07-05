@@ -9,7 +9,7 @@ app.use(
   cors({
      origin: [
       "http://localhost:5173",
-      "https://my-portfolio-mm0v.onrender.com/"
+      "https://my-portfolio-mm0v.onrender.com"
     ],
     credentials: true,
   })
