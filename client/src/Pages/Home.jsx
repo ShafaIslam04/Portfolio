@@ -1,4 +1,4 @@
-import NavBar from "../components/NavBar/NavBar.jsx";
+// import NavBar from "../components/NavBar/NavBar.jsx";
 import Hero from "../components/Hero/Hero";
 import About from "../components/About/About";
 import Skills from "../components/Skills/Skills";
@@ -7,12 +7,16 @@ import Experience from "../components/Experience/Experience";
 import Projects from "../components/Projects/Projects.jsx";
 import Contact from "../components/Contact/Contact.jsx";
 import Footer from "../components/Footer/Footer.jsx";
+import NavBar from "../components/NavBar/NavBar.jsx";
+
+
+
 
 
 const Home = () => {
   return (
     <>
-      <NavBar />
+      <NavBar/>
       <Hero />
       <About />
       <Skills />
