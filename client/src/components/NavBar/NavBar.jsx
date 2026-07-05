@@ -14,7 +14,7 @@ const navItems = [
   { name: "Footer", to: "footer" },
 ];
 
-const Navbar = () => {
+const NavBar = () => {
   const [open, setOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
 
@@ -112,4 +112,4 @@ const Navbar = () => {
   );
 };
 
-export default Navbar;
+export default NavBar;
